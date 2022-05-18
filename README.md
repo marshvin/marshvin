@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Vincent Marsh</h1>
-<h3 align="center">A Computer Science degree holder and passionate programmer from Kenya.</h3>
+<h3 align="center">A Computer Science degree student and passionate programmer from Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshvin&label=Profile%20views&color=0e75b6&style=flat" alt="marshvin" /> </p>
 
