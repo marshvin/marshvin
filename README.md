@@ -5,7 +5,7 @@
 
 - 🔭 I currently work on **front-end web development projects**
 
-- 🌱 I’m currently learning **Software Engineering in the ALX program**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 💬 Ask me about **react and vue**
 
