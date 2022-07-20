@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Vincent Marsh</h1>
-<h3 align="center">A Computer Science Student and passionate programmer from Kenya.</h3>
+<h3 align="center">A Software Developer and passionate programmer from Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshvin&label=Profile%20views&color=0e75b6&style=flat" alt="marshvin" /> </p>
 
-- 🔭 I currently work on **front-end web development projects**
+- 🔭 I am a skilled full-stack web developer**
 
 - 🌱 I’m currently learning **Software Engineering**
 
