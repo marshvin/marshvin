@@ -5,7 +5,7 @@
 
 - 🔭 I am a skilled full-stack web developer**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Software Engineering, Mobile App Development, Back-end development**
 
 - 💬 Ask me about **react and vue**
 
