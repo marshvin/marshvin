@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marshvin&label=Profile%20views&color=0e75b6&style=flat" alt="marshvin" /> </p>
 
-- 🔭 I am a skilled full-stack web developer**
+- 🔭 I am a skilled full-stack Software developer**
 
 - 🌱 I’m currently learning **Software Engineering specifically Back-end development**
 
