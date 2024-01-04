@@ -4,9 +4,9 @@
 
 - 🔭 I am a skilled full-stack web developer**
 
-- 🌱 I’m currently learning **Software Engineering, Mobile App Development, Back-end development**
+- 🌱 I’m currently learning **Software Engineering specifically Back-end development**
 
-- 💬 Ask me about **Nodejs ad express**
+- 💬 Ask me about **Nodejs ad**
 
 - 📫 How to reach me **vincentmarsh01@gmail.com**
 
