@@ -6,7 +6,7 @@
 
 - 🔭 **I am a skilled full-stack Software Developer.** I have experience in developing scalable web applications and working with a variety of technologies across the stack.
 
-- 🌱 **Currently, I am sharpening my skills in cloud computing and microservices architecture.** 
+- 🌱 **Currently, workng on cloud computing and microservices architecture.** 
 
 - 📫 **How to reach me:** vincentmarsh01@gmail.com
 
