@@ -1,13 +1,9 @@
 # ✨ Vincent Marsh
 
 <h2 align="center">🚀 Software Developer | Full-Stack Engineer</h2>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marshvin&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marshvin&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=marshvin&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/marshvin?label=FOLLOWERS&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
