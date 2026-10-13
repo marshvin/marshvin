@@ -1,10 +1,10 @@
 # ✨ Vincent Marsh
 
 <h2 align="center">🚀 Software Developer | Full-Stack Engineer</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Turning+Ideas+Into+Software;Solving+Problems+Through+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marshvin&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marshvin&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
